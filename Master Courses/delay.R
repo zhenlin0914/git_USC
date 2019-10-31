@@ -1,0 +1,210 @@
+library(plyr)
+library(ggplot2)
+library(gridExtra)
+
+#get data
+delaydiscounting     =  (read.csv("delaydiscounting.csv", header=T, sep=",")[-c(1,2),])
+delaydiscounting     = data.frame(delaydiscounting)
+
+#filter
+delaydiscounting$sub         <- seq.int(nrow(delaydiscounting))
+delete_response_1            <- subset(delaydiscounting, Q19 == "No" & Q14 == "China" & Q18 !="Other" )
+delete_response_2            <- subset(delaydiscounting, Finished == "False" )
+delete_response              <- rbind(delete_response_1,delete_response_2)
+data <- delaydiscounting[! delaydiscounting$sub %in% delete_response$sub,]
+
+
+
+#grouping
+native            = subset(data, data$Q19 == "No")
+native_1week      = data.frame(native[51:81])
+native_1week$sub  = seq.int(nrow(native_1week))
+
+native_2weeks = data.frame(native[82:112])
+native_2weeks$sub = seq.int(nrow(native_2weeks))
+
+native_1month = data.frame(native[113:143])
+native_1month$sub = seq.int(nrow(native_1month))
+
+native_6months = data.frame(native[145:175])
+native_6months$sub = seq.int(nrow(native_6months))
+
+native_5years = data.frame(native[176:206])
+native_5years$sub = seq.int(nrow(native_5years))
+
+native_25years = data.frame(native[207:237])
+native_25years$sub = seq.int(nrow(native_25years))
+
+international  = subset(data, data$Q19 == "Yes")
+international_1week = international[51:81]
+international_1week$sub  = seq.int(nrow(international_1week))
+
+international_2weeks = data.frame(international[82:112])
+international_2weeks$sub = seq.int(nrow(international_2weeks))
+
+international_1month = data.frame(international[113:143])
+international_1month$sub = seq.int(nrow(international_1month))
+
+international_6months = data.frame(international[145:175])
+international_6months$sub = seq.int(nrow(international_6months))
+
+international_5years = data.frame(international[176:206])
+international_5years$sub = seq.int(nrow(international_5years))
+
+international_25years = data.frame(international[207:237])
+international_25years$sub = seq.int(nrow(international_25years))
+
+mean_native        = c()
+mean_international = c()
+
+
+mean_1week <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 1 week"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  } 
+  mean(money_now)
+  #print(sprintf("mean of 1 week is: %s", mean(money_now)))
+}
+
+mean_2weeks <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 2 weeks"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  }
+  mean(money_now)
+  #print(sprintf("mean of 2 weeks is: %s", mean(money_now)))
+}
+
+mean_1month <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 1 month"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  }
+  mean(money_now)
+  #print(sprintf("mean of 1 month is: %s", mean(money_now)))
+}
+
+mean_6months <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 6 months"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  }
+  mean(money_now)
+  #print(sprintf("mean of 6 month is: %s", mean(money_now)))
+}
+
+mean_5years <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 5 years"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  }
+  mean(money_now)
+  #print(sprintf("mean of 5 years is: %s", mean(money_now)))
+}
+
+mean_25years <- function(dataset){
+  subject = c()
+  money_now = c()
+  for (i in 1:(length(dataset)-1)){
+    for (sub in 1:nrow(dataset)){
+      if (dataset[sub,i] != "$100.00 in 25 years"){
+        if (dataset[sub,i] != ""){
+          if (sub %in% subject){
+          }else{
+            subject = append(subject,sub)
+            x <- unlist(regmatches(dataset[sub,i], gregexpr('\\(?[0-9,.]+', dataset[sub,i])))
+            x <- as.numeric(gsub('\\(', '-', gsub(',', '', x)))
+            money_now = append(money_now,x[1])
+          }
+        }
+      }
+    }
+  }
+  mean(money_now)
+  #print(sprintf("mean of 25 years is: %s", mean(money_now)))
+}
+
+mean_native        = round(c(mean_1week(native_1week), mean_2weeks(native_2weeks),
+                       mean_1month(native_1month),mean_6months(native_6months),
+                       mean_5years(native_5years),mean_25years(native_25years)),2)
+mean_international =  round(c(mean_1week(international_1week), mean_2weeks(international_2weeks),
+                        mean_1month(international_1month),mean_6months(international_6months),
+                        mean_5years(international_5years),mean_25years(international_25years)),2)
+
+delay_time = c("1 week", "2 weeks", "1 month", "6 month", "5 years", "25 years")
+mean = cbind (delay_time, mean_native, mean_international)
+mean = data.frame(mean)
+mean$delay_time = factor(mean$delay_time, levels = c("1 week", "2 weeks", "1 month", "6 month", "5 years", "25 years"))
+
+t.test(mean_native,mean_international)
+
+mean_graph <- ggplot(mean, aes(mean$delay_time, mean$delay_time) )+ geom_point() + geom_smooth(method = 'lm') +
+  theme_bw() 
+
+

@@ -1,0 +1,1031 @@
+StartDate,EndDate,Status,IPAddress,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Q487,Q487,Q488,Q489,Q490,Q491,Q492,Q493,Q494,Q495,Q496,Q497,Q498,Q499,Q500,Q501,Q502,Q503,Q504,Q505,Q506,Q507,Q508,Q509,Q510,Q511,Q512,Q513,Q514,Q515,Q516,Q517,Q518,Q648,Q649,Q650,Q651,Q652,Q653,Q654,Q655,Q656,Q657,Q658,Q659,Q660,Q661,Q662,Q663,Q664,Q665,Q666,Q667,Q668,Q669,Q670,Q671,Q672,Q673,Q674,Q675,Q676,Q677,Q678,Q520,Q521,Q522,Q523,Q524,Q525,Q526,Q527,Q528,Q529,Q530,Q531,Q532,Q533,Q534,Q535,Q536,Q537,Q538,Q539,Q540,Q541,Q542,Q543,Q544,Q545,Q546,Q547,Q548,Q549,Q550,Q616,Q617,Q618,Q619,Q620,Q621,Q622,Q623,Q624,Q625,Q626,Q627,Q628,Q629,Q630,Q631,Q632,Q633,Q634,Q635,Q636,Q637,Q638,Q639,Q640,Q641,Q642,Q643,Q644,Q645,Q646,Q484,Q552,Q553,Q554,Q555,Q556,Q557,Q558,Q559,Q560,Q561,Q562,Q563,Q564,Q565,Q566,Q567,Q568,Q569,Q570,Q571,Q572,Q573,Q574,Q575,Q576,Q577,Q578,Q579,Q580,Q581,Q582,Q584,Q585,Q586,Q587,Q588,Q589,Q590,Q591,Q592,Q593,Q594,Q595,Q596,Q597,Q598,Q599,Q600,Q601,Q602,Q603,Q604,Q605,Q606,Q607,Q608,Q609,Q610,Q611,Q612,Q613,Q614,Q886,Q887,Q888,Q889,Q890,Q891,Q892,Q893,Q894,Q895,Q896,Q897,Q898,Q899,Q900,Q901,Q902,Q903,Q904,Q905,Q906,Q907,Q908,Q909,Q910,Q911,Q912,Q913,Q914,Q915,Q916,Q679,Q680,Q681,Q682,Q683,Q684,Q685,Q686,Q687,Q688,Q689,Q690,Q691,Q692,Q693,Q694,Q695,Q696,Q697,Q698,Q699,Q700,Q701,Q702,Q703,Q704,Q705,Q706,Q707,Q708,Q709,Q710,Q485,Q712,Q713,Q714,Q715,Q716,Q717,Q718,Q719,Q720,Q721,Q722,Q723,Q724,Q725,Q726,Q727,Q728,Q729,Q730,Q731,Q732,Q733,Q734,Q735,Q736,Q737,Q738,Q739,Q740,Q741,Q742,Q744,Q745,Q746,Q747,Q748,Q749,Q750,Q751,Q752,Q753,Q754,Q755,Q756,Q757,Q758,Q759,Q760,Q761,Q762,Q763,Q764,Q765,Q766,Q767,Q768,Q769,Q770,Q771,Q772,Q773,Q774,Q776,Q777,Q778,Q779,Q780,Q781,Q782,Q783,Q784,Q785,Q786,Q787,Q788,Q789,Q790,Q791,Q792,Q793,Q794,Q795,Q796,Q797,Q798,Q799,Q800,Q801,Q802,Q803,Q804,Q805,Q806,Q822,Q823,Q824,Q825,Q826,Q827,Q828,Q829,Q830,Q831,Q832,Q833,Q834,Q835,Q836,Q837,Q838,Q839,Q840,Q841,Q842,Q843,Q844,Q845,Q846,Q847,Q848,Q849,Q850,Q851,Q852,Q486,Q854,Q855,Q856,Q857,Q858,Q859,Q860,Q861,Q862,Q863,Q864,Q865,Q866,Q867,Q868,Q869,Q870,Q871,Q872,Q873,Q874,Q875,Q876,Q877,Q878,Q879,Q880,Q881,Q882,Q883,Q884,Q918,Q919,Q920,Q921,Q922,Q923,Q924,Q925,Q926,Q927,Q928,Q929,Q930,Q931,Q932,Q933,Q934,Q935,Q936,Q937,Q938,Q939,Q940,Q941,Q942,Q943,Q944,Q945,Q946,Q947,Q948,Q7_1,Q7_2,Q7_3,Q7_4,Q7_5,Q7_6,Q7_7,Q7_8,Q7_9,Q7_10,Q7_11,Q7_12,Q7_13,Q8_1,Q8_2,Q8_3,Q8_4,Q8_5,Q8_6,Q8_7,Q9_1,Q9_2,Q9_3,Q9_4,Q9_5,Q9_6,Q9_7,Q9_8,Q9_9,Q9_10,Q9_11,Q11,Q12,Q19,Q13,Q13_6_TEXT,Q14,Q14_3_TEXT,Q18,Q18_11_TEXT,Q15,Q21,Q16,Q17,Q17_3_TEXT,Q815,Q816,Q817,Q820,Q483,SC0,SC1,SC2,SC3,SC4,Q17_3_TEXT - Sentiment Polarity,Q17_3_TEXT - Sentiment Score,Q17_3_TEXT - Sentiment,Q17_3_TEXT - Topics
+Start Date,End Date,Response Type,IP Address,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"By clicking below, you are consenting to participate.","In this task, you will be asked to make decisions about which of two money rewards you would prefer. You will not receive any of the rewards you choose, but please make your decisions as though you are really going to receive the rewards you choose. In each question, you will be asked to choose between an amount of money that you would receive immediately versus an amount of money that you would receive at some specified point in the future. Select the reward you would prefer. The choices you make are completely up to you, and there are no right or wrong answers. Please simply choose the reward you would prefer.",Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Please choose the number you see : 2.,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,"In this task, you will be asked to make decisions about which of two money rewards you would prefer. You will not receive any of the rewards you choose, but please make your decisions as though you are really going to receive the rewards you choose. In each question, you will be asked to choose between an amount of money that you would receive immediately versus an amount of money that you would receive at some specified point in the future. Select the reward you would prefer. The choices you make are completely up to you, and there are no right or wrong answers. Please simply choose the reward you would prefer.",Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Please choose the number you see : 1001.,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Please choose the number you see : 2345.,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,Which would you prefer?,"(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 1. I have overcome setbacks to conquer an important challenge.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 2. New ideas and projects sometimes distract me from previous ones.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 3. My interests change from year to year.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 4. Setbacks don’t discourage me.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 5. I have been obsessed with a certain idea or project for a short time but later lost interest.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 6. I am a hard worker.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 7. I often set a goal but later choose to pursue a different one.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 8. I have difficulty maintaining my focus on projects that take more than a few months to complete.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 9. When you see this question, please select ""Mostly like me"".","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 10. I finish what ever I begin.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 11. I have achieved a goal that took years of work.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 12. I become interested in new pursuits every few months.","(You are almost there!!)
+Directions for taking the Grit Scale: Here are a number of statements that may or may not apply to you. For the most accurate score, when responding, think of how you compare to most people -- not just the people you know well, but most people in the world. There are no right or wrong answers, so just answer honestly! - 13. I am diligent.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 1. My painful experiences and memories make it difficult for me to live a life that I would value.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 2. I’m afraid of my feelings.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 3. I worry about not being able to control my worries and feelings.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 4. My painful memories prevent me from having a fulfilling life.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 5. Emotions cause problems in my life.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 6. It seems like most people are handling their lives better than I am.","Below you will find a list of statements. Please rate how true each statement is for you by
+using the scale below to fill in your choice. 
+		
+	
+	
+		
+			
+				
+					
+						
+							
+								1
+
+							
+						
+					
+					
+						
+							
+								2
+
+							
+						
+					
+					
+						
+							
+								3
+
+							
+						
+					
+					
+						
+							
+								4
+
+							
+						
+						
+					
+					
+						
+							
+								5
+
+							
+						
+						
+						
+					
+					
+						
+							
+								6
+
+							
+						
+						
+					
+					
+						
+							
+								7
+
+							
+						
+					
+				
+				
+					
+						
+							
+								never
+true
+
+							
+						
+					
+					
+						
+							
+								very seldom
+true
+
+							
+						
+					
+					
+						
+							
+								seldom
+true
+
+							
+						
+					
+					
+						
+							
+								sometimes
+true
+
+							
+						
+					
+					
+						
+							
+								frequently
+true
+
+							
+						
+					
+					
+						
+							
+								almost always
+true
+
+							
+						
+					
+					
+						
+							
+								always
+true - 7. Worries get in the way of my success.","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 1. In the last month, how often have you been upset because of something that happened unexpectedly?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 2. In the last month, how often have you felt that you were unable to control the important things in your life?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 3. In the last month, how often have you felt nervous and “stressed”?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 4. In the last month, how often have you felt confident about your ability to handle your personal problems?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 5. In the last month, how often have you felt that things were going your way?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 6. In the last month, how often have you found that you could not cope with all the things that you had to do?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 7. In the last month, how often have you been able to control irritations in your life?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 8. In the last month, how often have you felt that you were on top of things?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 9. When you see this question, please select ""Very Often"".","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 10. In the last month, how often have you been angered because of things that were outside of your control?","The questions in this scale ask you about your feelings and thoughts during the last month. In each case, you will be asked to indicate by circling how often you felt or thought a certain way. 
+
+
+
+
+
+0 = Never        1 = Almost Never        2 = Sometimes        3 = Fairly Often       4 = Very Often - 11. In the last month, how often have you felt difficulties were piling up so high that you could not overcome them?",What is your gender?,What is your age?,Are you an international student?,What is your race/ethnicity? - Selected Choice,What is your race/ethnicity? - Other - Text,Country of birth? - Selected Choice,Country of birth? - Other - Text,What year are you in college? - Selected Choice,What year are you in college? - Other - Text,Are you a working student?,"If you indicate you are ""working student"", please specify your working hours per week. For example, input ""10"".",What was your total family household income last year?,What languages do you speak? (Mark all that apply) - Selected Choice,What languages do you speak? (Mark all that apply) - Other - Text,What do you think this study was about?,Did you experience any technical difficulties while completing this experiment? Please be specific.,How realistic were the questions in this experiment?,What general comments do you have about this study?,Congratulation! You are now eligible to a lottery for a $50 Amazon gift card! Please leave the email address you want to be contacted below. We will contact you through email.,All Score,AAQ-II,PPS,Catch Question,Grit Score,Q17_3_TEXT - Sentiment Polarity,Q17_3_TEXT - Sentiment Score,Q17_3_TEXT - Sentiment,Q17_3_TEXT - Topics
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""ipAddress""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID954""}","{""ImportId"":""QID487""}","{""ImportId"":""QID488""}","{""ImportId"":""QID489""}","{""ImportId"":""QID490""}","{""ImportId"":""QID491""}","{""ImportId"":""QID492""}","{""ImportId"":""QID493""}","{""ImportId"":""QID494""}","{""ImportId"":""QID495""}","{""ImportId"":""QID496""}","{""ImportId"":""QID497""}","{""ImportId"":""QID498""}","{""ImportId"":""QID499""}","{""ImportId"":""QID500""}","{""ImportId"":""QID501""}","{""ImportId"":""QID502""}","{""ImportId"":""QID503""}","{""ImportId"":""QID504""}","{""ImportId"":""QID505""}","{""ImportId"":""QID506""}","{""ImportId"":""QID507""}","{""ImportId"":""QID508""}","{""ImportId"":""QID509""}","{""ImportId"":""QID510""}","{""ImportId"":""QID511""}","{""ImportId"":""QID512""}","{""ImportId"":""QID513""}","{""ImportId"":""QID514""}","{""ImportId"":""QID515""}","{""ImportId"":""QID516""}","{""ImportId"":""QID517""}","{""ImportId"":""QID518""}","{""ImportId"":""QID648""}","{""ImportId"":""QID649""}","{""ImportId"":""QID650""}","{""ImportId"":""QID651""}","{""ImportId"":""QID652""}","{""ImportId"":""QID653""}","{""ImportId"":""QID654""}","{""ImportId"":""QID655""}","{""ImportId"":""QID656""}","{""ImportId"":""QID657""}","{""ImportId"":""QID658""}","{""ImportId"":""QID659""}","{""ImportId"":""QID660""}","{""ImportId"":""QID661""}","{""ImportId"":""QID662""}","{""ImportId"":""QID663""}","{""ImportId"":""QID664""}","{""ImportId"":""QID665""}","{""ImportId"":""QID666""}","{""ImportId"":""QID667""}","{""ImportId"":""QID668""}","{""ImportId"":""QID669""}","{""ImportId"":""QID670""}","{""ImportId"":""QID671""}","{""ImportId"":""QID672""}","{""ImportId"":""QID673""}","{""ImportId"":""QID674""}","{""ImportId"":""QID675""}","{""ImportId"":""QID676""}","{""ImportId"":""QID677""}","{""ImportId"":""QID678""}","{""ImportId"":""QID520""}","{""ImportId"":""QID521""}","{""ImportId"":""QID522""}","{""ImportId"":""QID523""}","{""ImportId"":""QID524""}","{""ImportId"":""QID525""}","{""ImportId"":""QID526""}","{""ImportId"":""QID527""}","{""ImportId"":""QID528""}","{""ImportId"":""QID529""}","{""ImportId"":""QID530""}","{""ImportId"":""QID531""}","{""ImportId"":""QID532""}","{""ImportId"":""QID533""}","{""ImportId"":""QID534""}","{""ImportId"":""QID535""}","{""ImportId"":""QID536""}","{""ImportId"":""QID537""}","{""ImportId"":""QID538""}","{""ImportId"":""QID539""}","{""ImportId"":""QID540""}","{""ImportId"":""QID541""}","{""ImportId"":""QID542""}","{""ImportId"":""QID543""}","{""ImportId"":""QID544""}","{""ImportId"":""QID545""}","{""ImportId"":""QID546""}","{""ImportId"":""QID547""}","{""ImportId"":""QID548""}","{""ImportId"":""QID549""}","{""ImportId"":""QID550""}","{""ImportId"":""QID616""}","{""ImportId"":""QID617""}","{""ImportId"":""QID618""}","{""ImportId"":""QID619""}","{""ImportId"":""QID620""}","{""ImportId"":""QID621""}","{""ImportId"":""QID622""}","{""ImportId"":""QID623""}","{""ImportId"":""QID624""}","{""ImportId"":""QID625""}","{""ImportId"":""QID626""}","{""ImportId"":""QID627""}","{""ImportId"":""QID628""}","{""ImportId"":""QID629""}","{""ImportId"":""QID630""}","{""ImportId"":""QID631""}","{""ImportId"":""QID632""}","{""ImportId"":""QID633""}","{""ImportId"":""QID634""}","{""ImportId"":""QID635""}","{""ImportId"":""QID636""}","{""ImportId"":""QID637""}","{""ImportId"":""QID638""}","{""ImportId"":""QID639""}","{""ImportId"":""QID640""}","{""ImportId"":""QID641""}","{""ImportId"":""QID642""}","{""ImportId"":""QID643""}","{""ImportId"":""QID644""}","{""ImportId"":""QID645""}","{""ImportId"":""QID646""}","{""ImportId"":""QID951""}","{""ImportId"":""QID552""}","{""ImportId"":""QID553""}","{""ImportId"":""QID554""}","{""ImportId"":""QID555""}","{""ImportId"":""QID556""}","{""ImportId"":""QID557""}","{""ImportId"":""QID558""}","{""ImportId"":""QID559""}","{""ImportId"":""QID560""}","{""ImportId"":""QID561""}","{""ImportId"":""QID562""}","{""ImportId"":""QID563""}","{""ImportId"":""QID564""}","{""ImportId"":""QID565""}","{""ImportId"":""QID566""}","{""ImportId"":""QID567""}","{""ImportId"":""QID568""}","{""ImportId"":""QID569""}","{""ImportId"":""QID570""}","{""ImportId"":""QID571""}","{""ImportId"":""QID572""}","{""ImportId"":""QID573""}","{""ImportId"":""QID574""}","{""ImportId"":""QID575""}","{""ImportId"":""QID576""}","{""ImportId"":""QID577""}","{""ImportId"":""QID578""}","{""ImportId"":""QID579""}","{""ImportId"":""QID580""}","{""ImportId"":""QID581""}","{""ImportId"":""QID582""}","{""ImportId"":""QID584""}","{""ImportId"":""QID585""}","{""ImportId"":""QID586""}","{""ImportId"":""QID587""}","{""ImportId"":""QID588""}","{""ImportId"":""QID589""}","{""ImportId"":""QID590""}","{""ImportId"":""QID591""}","{""ImportId"":""QID592""}","{""ImportId"":""QID593""}","{""ImportId"":""QID594""}","{""ImportId"":""QID595""}","{""ImportId"":""QID596""}","{""ImportId"":""QID597""}","{""ImportId"":""QID598""}","{""ImportId"":""QID599""}","{""ImportId"":""QID600""}","{""ImportId"":""QID601""}","{""ImportId"":""QID602""}","{""ImportId"":""QID603""}","{""ImportId"":""QID604""}","{""ImportId"":""QID605""}","{""ImportId"":""QID606""}","{""ImportId"":""QID607""}","{""ImportId"":""QID608""}","{""ImportId"":""QID609""}","{""ImportId"":""QID610""}","{""ImportId"":""QID611""}","{""ImportId"":""QID612""}","{""ImportId"":""QID613""}","{""ImportId"":""QID614""}","{""ImportId"":""QID886""}","{""ImportId"":""QID887""}","{""ImportId"":""QID888""}","{""ImportId"":""QID889""}","{""ImportId"":""QID890""}","{""ImportId"":""QID891""}","{""ImportId"":""QID892""}","{""ImportId"":""QID893""}","{""ImportId"":""QID894""}","{""ImportId"":""QID895""}","{""ImportId"":""QID896""}","{""ImportId"":""QID897""}","{""ImportId"":""QID898""}","{""ImportId"":""QID899""}","{""ImportId"":""QID900""}","{""ImportId"":""QID901""}","{""ImportId"":""QID902""}","{""ImportId"":""QID903""}","{""ImportId"":""QID904""}","{""ImportId"":""QID905""}","{""ImportId"":""QID906""}","{""ImportId"":""QID907""}","{""ImportId"":""QID908""}","{""ImportId"":""QID909""}","{""ImportId"":""QID910""}","{""ImportId"":""QID911""}","{""ImportId"":""QID912""}","{""ImportId"":""QID913""}","{""ImportId"":""QID914""}","{""ImportId"":""QID915""}","{""ImportId"":""QID916""}","{""ImportId"":""QID679""}","{""ImportId"":""QID680""}","{""ImportId"":""QID681""}","{""ImportId"":""QID682""}","{""ImportId"":""QID683""}","{""ImportId"":""QID684""}","{""ImportId"":""QID685""}","{""ImportId"":""QID686""}","{""ImportId"":""QID687""}","{""ImportId"":""QID688""}","{""ImportId"":""QID689""}","{""ImportId"":""QID690""}","{""ImportId"":""QID691""}","{""ImportId"":""QID692""}","{""ImportId"":""QID693""}","{""ImportId"":""QID694""}","{""ImportId"":""QID695""}","{""ImportId"":""QID696""}","{""ImportId"":""QID697""}","{""ImportId"":""QID698""}","{""ImportId"":""QID699""}","{""ImportId"":""QID700""}","{""ImportId"":""QID701""}","{""ImportId"":""QID702""}","{""ImportId"":""QID703""}","{""ImportId"":""QID704""}","{""ImportId"":""QID705""}","{""ImportId"":""QID706""}","{""ImportId"":""QID707""}","{""ImportId"":""QID708""}","{""ImportId"":""QID709""}","{""ImportId"":""QID710""}","{""ImportId"":""QID952""}","{""ImportId"":""QID712""}","{""ImportId"":""QID713""}","{""ImportId"":""QID714""}","{""ImportId"":""QID715""}","{""ImportId"":""QID716""}","{""ImportId"":""QID717""}","{""ImportId"":""QID718""}","{""ImportId"":""QID719""}","{""ImportId"":""QID720""}","{""ImportId"":""QID721""}","{""ImportId"":""QID722""}","{""ImportId"":""QID723""}","{""ImportId"":""QID724""}","{""ImportId"":""QID725""}","{""ImportId"":""QID726""}","{""ImportId"":""QID727""}","{""ImportId"":""QID728""}","{""ImportId"":""QID729""}","{""ImportId"":""QID730""}","{""ImportId"":""QID731""}","{""ImportId"":""QID732""}","{""ImportId"":""QID733""}","{""ImportId"":""QID734""}","{""ImportId"":""QID735""}","{""ImportId"":""QID736""}","{""ImportId"":""QID737""}","{""ImportId"":""QID738""}","{""ImportId"":""QID739""}","{""ImportId"":""QID740""}","{""ImportId"":""QID741""}","{""ImportId"":""QID742""}","{""ImportId"":""QID744""}","{""ImportId"":""QID745""}","{""ImportId"":""QID746""}","{""ImportId"":""QID747""}","{""ImportId"":""QID748""}","{""ImportId"":""QID749""}","{""ImportId"":""QID750""}","{""ImportId"":""QID751""}","{""ImportId"":""QID752""}","{""ImportId"":""QID753""}","{""ImportId"":""QID754""}","{""ImportId"":""QID755""}","{""ImportId"":""QID756""}","{""ImportId"":""QID757""}","{""ImportId"":""QID758""}","{""ImportId"":""QID759""}","{""ImportId"":""QID760""}","{""ImportId"":""QID761""}","{""ImportId"":""QID762""}","{""ImportId"":""QID763""}","{""ImportId"":""QID764""}","{""ImportId"":""QID765""}","{""ImportId"":""QID766""}","{""ImportId"":""QID767""}","{""ImportId"":""QID768""}","{""ImportId"":""QID769""}","{""ImportId"":""QID770""}","{""ImportId"":""QID771""}","{""ImportId"":""QID772""}","{""ImportId"":""QID773""}","{""ImportId"":""QID774""}","{""ImportId"":""QID776""}","{""ImportId"":""QID777""}","{""ImportId"":""QID778""}","{""ImportId"":""QID779""}","{""ImportId"":""QID780""}","{""ImportId"":""QID781""}","{""ImportId"":""QID782""}","{""ImportId"":""QID783""}","{""ImportId"":""QID784""}","{""ImportId"":""QID785""}","{""ImportId"":""QID786""}","{""ImportId"":""QID787""}","{""ImportId"":""QID788""}","{""ImportId"":""QID789""}","{""ImportId"":""QID790""}","{""ImportId"":""QID791""}","{""ImportId"":""QID792""}","{""ImportId"":""QID793""}","{""ImportId"":""QID794""}","{""ImportId"":""QID795""}","{""ImportId"":""QID796""}","{""ImportId"":""QID797""}","{""ImportId"":""QID798""}","{""ImportId"":""QID799""}","{""ImportId"":""QID800""}","{""ImportId"":""QID801""}","{""ImportId"":""QID802""}","{""ImportId"":""QID803""}","{""ImportId"":""QID804""}","{""ImportId"":""QID805""}","{""ImportId"":""QID806""}","{""ImportId"":""QID822""}","{""ImportId"":""QID823""}","{""ImportId"":""QID824""}","{""ImportId"":""QID825""}","{""ImportId"":""QID826""}","{""ImportId"":""QID827""}","{""ImportId"":""QID828""}","{""ImportId"":""QID829""}","{""ImportId"":""QID830""}","{""ImportId"":""QID831""}","{""ImportId"":""QID832""}","{""ImportId"":""QID833""}","{""ImportId"":""QID834""}","{""ImportId"":""QID835""}","{""ImportId"":""QID836""}","{""ImportId"":""QID837""}","{""ImportId"":""QID838""}","{""ImportId"":""QID839""}","{""ImportId"":""QID840""}","{""ImportId"":""QID841""}","{""ImportId"":""QID842""}","{""ImportId"":""QID843""}","{""ImportId"":""QID844""}","{""ImportId"":""QID845""}","{""ImportId"":""QID846""}","{""ImportId"":""QID847""}","{""ImportId"":""QID848""}","{""ImportId"":""QID849""}","{""ImportId"":""QID850""}","{""ImportId"":""QID851""}","{""ImportId"":""QID852""}","{""ImportId"":""QID953""}","{""ImportId"":""QID854""}","{""ImportId"":""QID855""}","{""ImportId"":""QID856""}","{""ImportId"":""QID857""}","{""ImportId"":""QID858""}","{""ImportId"":""QID859""}","{""ImportId"":""QID860""}","{""ImportId"":""QID861""}","{""ImportId"":""QID862""}","{""ImportId"":""QID863""}","{""ImportId"":""QID864""}","{""ImportId"":""QID865""}","{""ImportId"":""QID866""}","{""ImportId"":""QID867""}","{""ImportId"":""QID868""}","{""ImportId"":""QID869""}","{""ImportId"":""QID870""}","{""ImportId"":""QID871""}","{""ImportId"":""QID872""}","{""ImportId"":""QID873""}","{""ImportId"":""QID874""}","{""ImportId"":""QID875""}","{""ImportId"":""QID876""}","{""ImportId"":""QID877""}","{""ImportId"":""QID878""}","{""ImportId"":""QID879""}","{""ImportId"":""QID880""}","{""ImportId"":""QID881""}","{""ImportId"":""QID882""}","{""ImportId"":""QID883""}","{""ImportId"":""QID884""}","{""ImportId"":""QID918""}","{""ImportId"":""QID919""}","{""ImportId"":""QID920""}","{""ImportId"":""QID921""}","{""ImportId"":""QID922""}","{""ImportId"":""QID923""}","{""ImportId"":""QID924""}","{""ImportId"":""QID925""}","{""ImportId"":""QID926""}","{""ImportId"":""QID927""}","{""ImportId"":""QID928""}","{""ImportId"":""QID929""}","{""ImportId"":""QID930""}","{""ImportId"":""QID931""}","{""ImportId"":""QID932""}","{""ImportId"":""QID933""}","{""ImportId"":""QID934""}","{""ImportId"":""QID935""}","{""ImportId"":""QID936""}","{""ImportId"":""QID937""}","{""ImportId"":""QID938""}","{""ImportId"":""QID939""}","{""ImportId"":""QID940""}","{""ImportId"":""QID941""}","{""ImportId"":""QID942""}","{""ImportId"":""QID943""}","{""ImportId"":""QID944""}","{""ImportId"":""QID945""}","{""ImportId"":""QID946""}","{""ImportId"":""QID947""}","{""ImportId"":""QID948""}","{""ImportId"":""QID7_1""}","{""ImportId"":""QID7_2""}","{""ImportId"":""QID7_3""}","{""ImportId"":""QID7_4""}","{""ImportId"":""QID7_5""}","{""ImportId"":""QID7_6""}","{""ImportId"":""QID7_7""}","{""ImportId"":""QID7_8""}","{""ImportId"":""QID7_9""}","{""ImportId"":""QID7_10""}","{""ImportId"":""QID7_11""}","{""ImportId"":""QID7_12""}","{""ImportId"":""QID7_13""}","{""ImportId"":""QID8_1""}","{""ImportId"":""QID8_2""}","{""ImportId"":""QID8_3""}","{""ImportId"":""QID8_4""}","{""ImportId"":""QID8_5""}","{""ImportId"":""QID8_6""}","{""ImportId"":""QID8_7""}","{""ImportId"":""QID9_1""}","{""ImportId"":""QID9_2""}","{""ImportId"":""QID9_3""}","{""ImportId"":""QID9_4""}","{""ImportId"":""QID9_5""}","{""ImportId"":""QID9_6""}","{""ImportId"":""QID9_7""}","{""ImportId"":""QID9_8""}","{""ImportId"":""QID9_9""}","{""ImportId"":""QID9_10""}","{""ImportId"":""QID9_11""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID22""}","{""ImportId"":""QID13""}","{""ImportId"":""QID13_6_TEXT""}","{""ImportId"":""QID14""}","{""ImportId"":""QID14_3_TEXT""}","{""ImportId"":""QID18""}","{""ImportId"":""QID18_11_TEXT""}","{""ImportId"":""QID15""}","{""ImportId"":""QID21_TEXT""}","{""ImportId"":""QID16""}","{""ImportId"":""QID17""}","{""ImportId"":""QID17_3_TEXT""}","{""ImportId"":""QID815_TEXT""}","{""ImportId"":""QID816_TEXT""}","{""ImportId"":""QID817_TEXT""}","{""ImportId"":""QID820_TEXT""}","{""ImportId"":""QID950_TEXT""}","{""ImportId"":""SC_bknS6ZrN1LR76nP""}","{""ImportId"":""SC_a2yt7YJXgNfnxQx""}","{""ImportId"":""SC_8HdMwCv4oYhM4fj""}","{""ImportId"":""SC_8iYeDVZxemXIacR""}","{""ImportId"":""SC_6Gyq1oSHxSOKkbH""}","{""ImportId"":""QID17_3_TEXT_12c0449e4b6c41d5adfccfb0SenPol""}","{""ImportId"":""QID17_3_TEXT_12c0449e4b6c41d5adfccfb0SenScore""}","{""ImportId"":""QID17_3_TEXT_12c0449e4b6c41d5adfccfb0Sentiment""}","{""ImportId"":""QID17_3_TEXT_12c0449e4b6c41d5adfccfb0Topics""}"
+2019-09-19 14:33:55,2019-09-19 14:47:06,IP Address,128.125.148.145,100,791,True,2019-09-19 14:47:07,R_Zwv9a3ITEoJU3UR,,,,,34.032196044921875,-118.283599853515625,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 month,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$97.70 now,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$100.00 in 5 years,,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 5 years,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Not much like me,Very much like me,Somewhat like me,Very much like me,Not much like me,Not like me at all,Mostly like me,Mostly like me,Very much like me,Not much like me,Very much like me,very seldom true,seldom true,seldom true,very seldom true,very seldom true,very seldom true,very seldom true,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,2 = Sometimes,4 = Very Often,1 = Almost Never,0 = Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,Yes,16,Prefer not to answer,"English,Chinese,Other","Japanese, Spanish",Value to money,no,very realistic,Interested to see the result,zhixul0927@gmail.com,81,16,19,0,46,,,,
+2019-09-19 19:21:41,2019-09-19 19:48:15,IP Address,107.210.160.241,100,1593,True,2019-09-19 19:48:16,R_2t9dnfSQrJDhr0d,,,,,33.3708038330078125,-84.815399169921875,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 5 years,,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Mostly like me,Not much like me,Mostly like me,Somewhat like me,Very much like me,Not much like me,Not much like me,Mostly like me,Somewhat like me,Very much like me,Not like me at all,Mostly like me,frequently true,sometimes true,sometimes true,very seldom true,almost always true,never true,seldom true,3 = Fairly Often,3 = Fairly Often,4 = Very Often,2 = Sometimes,1 = Almost Never,3 = Fairly Often,2 = Sometimes,2 = Sometimes,4 = Very Often,2 = Sometimes,3 = Fairly Often,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Other,bachelor graduated,No,,"more than $75,000","English,Chinese",,humanity,I don't quite understand some of the words,Not much,This took me a lot of time,jiananqu1994@gmail.com,99,25,25,0,39,,,,
+2019-09-19 20:37:33,2019-09-19 20:46:29,IP Address,76.87.60.123,100,536,True,2019-09-19 20:46:30,R_2BgQZbRE2rVElAK,,,,,34.006805419921875,-118.2559967041015625,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$75.00 now,,,$100.00 in 6 months,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,$100.00 in 6 months,,,,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 25 years,,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$500.00 now,$1000.00 in 5 years,,,$1000.00 in 5 years,,,,,,$438.00 now,,,,,,,,,,,$410.00 now,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Not much like me,Mostly like me,Not much like me,Very much like me,Not like me at all,Not like me at all,Mostly like me,Mostly like me,Mostly like me,Not much like me,Very much like me,seldom true,never true,seldom true,very seldom true,seldom true,never true,never true,2 = Sometimes,1 = Almost Never,3 = Fairly Often,1 = Almost Never,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,4 = Very Often,3 = Fairly Often,1 = Almost Never,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate second year,,Yes,20,"$52,000-74,999","English,Chinese",,"Emotion, stress, and goals",nope,the questions asking about 25 years are not very realistic,,,88,14,20,0,48,,,,
+2019-09-20 23:15:29,2019-09-20 23:42:48,IP Address,172.91.8.197,100,1638,True,2019-09-20 23:42:49,R_RXHO0GSQaAJrR2p,,,,,34.06719970703125,-118.301605224609375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$100.00 in 6 months,$100.00 in 5 years,,$100.00 in 5 years,,,,$100.00 in 5 years,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$100.00 in 5 years,$100.00 in 25 years,,$100.00 in 25 years,,,,$100.00 in 25 years,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,$97.70 now,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$1000.00 in 25 years,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,$977.00 now,Very much like me,Not much like me,Not much like me,Mostly like me,Not much like me,Very much like me,Not much like me,Not much like me,Mostly like me,Mostly like me,Mostly like me,Not much like me,Very much like me,very seldom true,never true,very seldom true,very seldom true,very seldom true,very seldom true,never true,1 = Almost Never,1 = Almost Never,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,Yes,16,"more than $75,000","English,Chinese,Other",日本語 espanol,Stress,No,Very realistic,Interested to see the results.,zhixul0927@gmail.com,73,12,18,0,47,,,,
+2019-09-21 12:31:02,2019-09-21 12:42:39,IP Address,140.254.77.175,100,696,True,2019-09-21 12:42:40,R_tL3BAVaU1w9QYlH,,,,,40.004302978515625,-83.0177001953125,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 1 week,,,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$78.80 now,,,,$50.00 now,$100.00 in 1 month,,,$37.50 now,,,,,$31.30 now,,,,,,,,,,$28.40 now,,,,,,,,,,,,2,$50.00 now,$100.00 in 6 months,,,$37.50 now,,,,,$31.30 now,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,$100.00 in 5 years,,$100.00 in 5 years,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$78.80 now,,,,$100.00 in 25 years,,$75.00 now,,,$62.50 now,,,,,,$100.00 in 25 years,,,,,,,,,,,,,$59.90 now,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$500.00 now,$1000.00 in 1 week,,,$1000.00 in 1 week,,,,,,$438.00 now,,,,,,,,,,,$410.00 now,,,,,,,,,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 1 month,,,,$1000.00 in 6 months,,$750.00 now,,,$1000.00 in 6 months,,,,,,,$688.00 now,,,,,,,,,,,,,$1000.00 in 6 months,,,,,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 25 years,,$750.00 now,,,$1000.00 in 25 years,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,$1000.00 in 25 years,,,,,Not like me at all,Not much like me,Somewhat like me,Very much like me,Somewhat like me,Not much like me,Not much like me,Somewhat like me,Mostly like me,Somewhat like me,Not much like me,Somewhat like me,Somewhat like me,sometimes true,sometimes true,never true,frequently true,frequently true,frequently true,always true,2 = Sometimes,0 = Never,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,0 = Never,4 = Very Often,2 = Sometimes,4 = Very Often,1 = Almost Never,0 = Never,Prefer not to answer,18-25 years old,No,Hispanic/Latino,,United States,,Undergraduate sophomore year,,Prefer not to answer,,"more than $75,000",English,,spamming everywhere,maybe,"not at all, nobody's giving me $1000 in 25 years",useless,dualschix1@gmail.com,79,31,16,0,38,,,,
+2019-09-21 13:48:01,2019-09-21 13:57:49,IP Address,104.177.118.52,100,588,True,2019-09-21 13:57:50,R_3fT61JxVcAusTtH,,,,,32.8594970703125,-117.21240234375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 5 years,,$75.00 now,,,$100.00 in 5 years,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$100.00 in 25 years,,,$37.50 now,,,,,$31.30 now,,,,,,,,,,$28.40 now,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 25 years,,,,Very much like me,Somewhat like me,Not much like me,Mostly like me,Very much like me,Somewhat like me,Mostly like me,Mostly like me,Very much like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,seldom true,sometimes true,seldom true,very seldom true,seldom true,frequently true,sometimes true,1 = Almost Never,3 = Fairly Often,2 = Sometimes,1 = Almost Never,2 = Sometimes,1 = Almost Never,3 = Fairly Often,2 = Sometimes,4 = Very Often,1 = Almost Never,3 = Fairly Often,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate junior year,,No,,"$26,000-$51,999","English,Chinese",,anxiety,no,kind of,,bal020@ucsd.edu,81,24,19,1,38,,,,
+2019-09-21 13:14:49,2019-09-21 14:09:45,IP Address,106.122.3.99,100,3296,True,2019-09-21 14:09:46,R_9AkigpudSQDkeAx,,,,,26.0614013671875,119.30609130859375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$78.80 now,,,,$100.00 in 2 weeks,,$75.00 now,,,$62.50 now,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,$59.90 now,,,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,2,$50.00 now,$100.00 in 6 months,,,$37.50 now,,,,,$100.00 in 6 months,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 week,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 6 months,,2345,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,Very much like me,Very much like me,Not much like me,Very much like me,Very much like me,Somewhat like me,Somewhat like me,Not much like me,Mostly like me,Somewhat like me,Very much like me,Not much like me,Very much like me,very seldom true,never true,never true,never true,sometimes true,never true,never true,0 = Never,1 = Almost Never,0 = Never,4 = Very Often,0 = Never,0 = Never,1 = Almost Never,3 = Fairly Often,4 = Very Often,1 = Almost Never,0 = Never,Male,26 or older,No,Asian or Pacific Islander,,China,,Graduate fourth year,,Yes,10,"$26,000-$51,999","English,Chinese",,psychology,no,very,,,64,11,10,0,37,,,,
+2019-09-21 14:17:23,2019-09-21 14:26:08,IP Address,68.5.204.179,100,524,True,2019-09-21 14:26:09,R_3eyoIiw20NfVMjn,,,,,33.6815948486328125,-117.8302001953125,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$87.50 now,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,$100.00 in 1 month,,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$100.00 in 6 months,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 month,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Mostly like me,Not much like me,Not like me at all,Somewhat like me,Not like me at all,Not like me at all,Very much like me,Mostly like me,Not much like me,Very much like me,Somewhat like me,Somewhat like me,sometimes true,almost always true,frequently true,almost always true,almost always true,sometimes true,frequently true,1 = Almost Never,2 = Sometimes,4 = Very Often,1 = Almost Never,2 = Sometimes,4 = Very Often,2 = Sometimes,1 = Almost Never,4 = Very Often,0 = Never,3 = Fairly Often,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,No,,"more than $75,000","English,Chinese",,One’s ability to achieve things under pressure?,Nope,Standard,"Nothing ",ultraman.steve@gmail.com,93,36,20,0,29,,,,
+2019-09-21 14:11:38,2019-09-21 14:26:29,IP Address,172.58.235.63,100,890,True,2019-09-21 14:26:30,R_1LqafZdUOsOA3bd,,,,,40.75970458984375,-74.18360137939453125,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$75.00 now,,,$100.00 in 2 weeks,,,,,,,$68.80 now,,,,,,,,,,,,,$66.20 now,,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$43.80 now,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 1 month,,$750.00 now,,,$1000.00 in 1 month,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,$1000.00 in 1 month,,,,,$1000.00 in 6 months,,$750.00 now,,,$625.00 now,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,$599.00 now,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Not much like me,Not much like me,Mostly like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,never true,never true,very seldom true,never true,never true,never true,very seldom true,1 = Almost Never,1 = Almost Never,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,0 = Never,3 = Fairly Often,4 = Very Often,0 = Never,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,No,,"more than $75,000","English,Chinese",,"Emotion and feeling of financial issues ",Nope,"Possibly ",,,63,9,16,0,36,,,,
+2019-09-21 14:01:15,2019-09-21 14:57:17,IP Address,172.58.19.110,100,3362,True,2019-09-21 14:57:18,R_3iUxVMTtMKMLBlj,,,,,33.783203125,-117.977294921875,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$100.00 in 5 years,,$75.00 now,,,$100.00 in 5 years,,,,,,,$68.80 now,,,,,,,,,,,,,$100.00 in 5 years,,,,,,$50.00 now,$100.00 in 25 years,,,$100.00 in 25 years,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 6 months,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$875.00 now,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,$851.00 now,,,$500.00 now,$1000.00 in 25 years,,,$375.00 now,,,,,$1000.00 in 25 years,,,,,,,,,,,$347.00 now,,,,,,,,,,,Mostly like me,Not much like me,Not much like me,Somewhat like me,Not much like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Very much like me,Not much like me,Mostly like me,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,frequently true,1 = Almost Never,2 = Sometimes,1 = Almost Never,3 = Fairly Often,2 = Sometimes,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Prefer not to answer,18-25 years old,No,Asian or Pacific Islander,,China,,Other,Recent graduate,No,,"$26,000-$51,999","English,Chinese",,something vaguely about decision making,nope,reasonably realistic I guess?,I suspect people’s answers to the first part depends heavily on their financial situation but maybe that’s the point?,johannsong@ucla.edu,88,29,19,0,40,,,,
+2019-09-21 15:52:37,2019-09-21 16:00:32,IP Address,141.166.131.217,100,474,True,2019-09-21 16:00:32,R_2afpuUmORtBs8St,,,,,37.553802490234375,-77.460296630859375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$100.00 in 6 months,,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$500.00 now,$1000.00 in 5 years,,,$1000.00 in 5 years,,,,,,$1000.00 in 5 years,,,,,,,,,,,,$1000.00 in 5 years,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$95.00 now,,,,,,,,,,,,,,,Somewhat like me,Very much like me,Not much like me,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,Mostly like me,Very much like me,Somewhat like me,Very much like me,Not much like me,Not much like me,very seldom true,very seldom true,frequently true,sometimes true,sometimes true,frequently true,frequently true,3 = Fairly Often,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,1 = Almost Never,4 = Very Often,3 = Fairly Often,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate sophomore year,,No,,Prefer not to answer,"English,Chinese,Other",Japanese,Eagerness and control,no,around 67%,,yanannn@qq.com,87,27,25,1,29,,,,
+2019-09-21 16:15:26,2019-09-21 16:21:04,IP Address,66.108.38.169,100,337,True,2019-09-21 16:21:05,R_VJs9nLvxVsOpjep,,,,,40.70989990234375,-73.95909881591796875,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$87.50 now,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,$100.00 in 2 weeks,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,,,,,,,,,,,,,,,,,,,,,,1,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$100.00 in 6 months,,,,,,,,,,,,$47.30 now,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 25 years,,,,,$18.80 now,,,,,,,,,$15.80 now,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 6 months,,,,2345,$500.00 now,$1000.00 in 5 years,,,$1000.00 in 5 years,,,,,,$1000.00 in 5 years,,,,,,,,,,,,$1000.00 in 5 years,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,sometimes true,sometimes true,frequently true,very seldom true,very seldom true,sometimes true,sometimes true,2 = Sometimes,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,3 = Fairly Often,4 = Very Often,2 = Sometimes,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,Yes,15,Prefer not to answer,"English,Chinese",,Expectation,No,Somewhat,"Too many questions ",luoyx2014@163.com,79,25,26,1,36,,,,
+2019-09-21 16:13:15,2019-09-21 16:23:08,IP Address,172.58.19.184,100,593,True,2019-09-21 16:23:09,R_1Quzoj8jaEGpkTw,,,,,33.783203125,-117.977294921875,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 month,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$50.00 now,$100.00 in 5 years,,,$37.50 now,,,,,$100.00 in 5 years,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1002,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$1000.00 in 5 years,$500.00 now,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Somewhat like me,Very much like me,Very much like me,Very much like me,Mostly like me,Somewhat like me,Very much like me,Mostly like me,Mostly like me,Very much like me,Mostly like me,Mostly like me,Somewhat like me,very seldom true,seldom true,sometimes true,never true,sometimes true,sometimes true,sometimes true,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,No,,Prefer not to answer,"English,Chinese",,,,,,,75,22,21,1,32,,,,
+2019-09-21 16:08:04,2019-09-21 16:26:16,IP Address,104.32.174.99,100,1091,True,2019-09-21 16:26:17,R_2gAYkqcTR8tvdLP,,,,,34.032196044921875,-118.283599853515625,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$50.00 now,$25.00 now,,$100.00 in 1 week,,,,,$100.00 in 1 week,,,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$100.00 in 6 months,$100.00 in 5 years,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I understand,$1000.00 now,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1001,$1000.00 in 1 week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2345,$1000.00 in 5 years,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Somewhat like me,Not much like me,Very much like me,Somewhat like me,Very much like me,Not like me at all,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Not much like me,Somewhat like me,Somewhat like me,never true,frequently true,never true,sometimes true,frequently true,very seldom true,never true,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,Male,26 or older,Yes,Asian or Pacific Islander,,China,,Other,phd student,No,,"$0-25,999","English,Chinese",,"Hard to understand ","Language ",Need to be more real,"May be a real life background at the beginning will be more helpful for people to understand the study ",,70,19,20,1,33,,,,
+2019-09-21 16:08:27,2019-09-21 16:55:26,IP Address,109.175.189.32,100,2819,True,2019-09-21 16:55:27,R_3dGGvEXk5GYt8GY,,,,,51.5050048828125,-0.221099853515625,anonymous,EN,,I understand,$50.00 now,$100.00 now,,,$100.00 now,,,,,,$100.00 now,,,,,,,,,,,,$100.00 now,,,,,,,,,$100.00 in 1 week,,$75.00 now,,,$100.00 in 1 week,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$100.00 in 2 weeks,,,$100.00 in 2 weeks,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,$100.00 in 1 month,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,$53.60 now,,,,,,,,2,$50.00 now,$100.00 in 6 months,,,$37.50 now,,,,,$100.00 in 6 months,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 week,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$875.00 now,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,$851.00 now,,,$1000.00 in 6 months,,$750.00 now,,,$1000.00 in 6 months,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,$1000.00 in 6 months,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Somewhat like me,Not much like me,Not much like me,Not much like me,Somewhat like me,Not much like me,Mostly like me,Mostly like me,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,very seldom true,seldom true,almost always true,very seldom true,sometimes true,sometimes true,seldom true,1 = Almost Never,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,2 = Sometimes,1 = Almost Never,1 = Almost Never,4 = Very Often,2 = Sometimes,2 = Sometimes,Male,18-25 years old,No,Asian or Pacific Islander,,China,,Undergraduate senior year,,Yes,16,"more than $75,000","English,Chinese",,Not sure,Not really,It’s below my expectation,Interesting one,DDLLOO@Ucla.edu,83,24,19,0,36,,,,
+2019-09-21 17:20:12,2019-09-21 17:39:27,IP Address,76.175.113.12,100,1155,True,2019-09-21 17:39:28,R_3O30GZw8IVJiHGd,,,,,34.032196044921875,-118.283599853515625,anonymous,EN,,I understand,$50.00 now,$25.00 now,,$100.00 now,,,,,$100.00 now,,,,,,,,,,$100.00 now,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$75.00 now,,,$100.00 in 6 months,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 25 years,,,,,,,,,$9.50 now,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 25 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,Mostly like me,Not much like me,Not much like me,Mostly like me,Not much like me,Mostly like me,Not much like me,Not much like me,Mostly like me,Not like me at all,Not much like me,Not much like me,Mostly like me,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,sometimes true,very seldom true,1 = Almost Never,0 = Never,1 = Almost Never,3 = Fairly Often,1 = Almost Never,1 = Almost Never,3 = Fairly Often,1 = Almost Never,4 = Very Often,0 = Never,0 = Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,No,,"$26,000-$51,999","English,Chinese",,emotion,no,sometimes answer is vague to say,dont know,,70,16,11,0,43,,,,
+2019-09-21 18:09:20,2019-09-21 18:30:32,IP Address,76.87.52.103,100,1272,True,2019-09-21 18:30:33,R_ZE4nBkGkAikPcUV,,,,,34.006805419921875,-118.2559967041015625,anonymous,EN,,I understand,$50.00 now,$25.00 now,,$100.00 now,,,,,$100.00 now,,,,,,,,,,$22.10 now,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$100.00 in 5 years,,$100.00 in 5 years,,,,$100.00 in 5 years,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$100.00 in 5 years,$100.00 in 25 years,,$100.00 in 25 years,,,,$100.00 in 25 years,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,$100.00 in 25 years,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$1000.00 in 5 years,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$1000.00 in 25 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,Somewhat like me,Mostly like me,Mostly like me,Not like me at all,Very much like me,Somewhat like me,Very much like me,Somewhat like me,Mostly like me,Mostly like me,Not much like me,Not much like me,Somewhat like me,very seldom true,frequently true,almost always true,always true,seldom true,seldom true,seldom true,2 = Sometimes,1 = Almost Never,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,2 = Sometimes,1 = Almost Never,2 = Sometimes,4 = Very Often,1 = Almost Never,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,Yes,50,Prefer not to answer,"English,Chinese",,"this study is to test invest p                ",no,time gap is too wide,,czkorange@gmail.com,77,29,17,0,29,,,,
+2019-09-21 18:22:06,2019-09-21 18:33:01,IP Address,223.104.98.103,100,655,True,2019-09-21 18:33:03,R_2Vr3yEEl3OdBK5R,,,,,20.0485992431640625,110.34320068359375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$75.00 now,,,$100.00 in 6 months,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 25 years,,,,,$18.80 now,,,,,,,,,$15.80 now,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$875.00 now,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,$851.00 now,,,2345,$1000.00 in 5 years,,$750.00 now,,,$1000.00 in 5 years,,,,,,,$688.00 now,,,,,,,,,,,,,$1000.00 in 5 years,,,,,,$1000.00 in 25 years,,$750.00 now,,,$1000.00 in 25 years,,,,,,,$688.00 now,,,,,,,,,,,,,$662.00 now,,,,,,Somewhat like me,Somewhat like me,Not much like me,Mostly like me,Not much like me,Very much like me,Not much like me,Not much like me,Mostly like me,Mostly like me,Mostly like me,Somewhat like me,Very much like me,sometimes true,seldom true,almost always true,sometimes true,sometimes true,sometimes true,seldom true,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,1 = Almost Never,4 = Very Often,1 = Almost Never,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,Yes,30,"$26,000-$51,999",Chinese,,emotion and stress,I am not sure avout my feeling,very realistic,no,cleoxm96@163.com,95,28,20,0,45,,,,
+2019-09-21 18:43:18,2019-09-21 19:29:13,IP Address,140.243.180.136,100,2755,True,2019-09-21 19:29:14,R_w7xJSC3hO0kSJS9,,,,,26.0614013671875,119.30609130859375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Very much like me,Not much like me,Mostly like me,Very much like me,Somewhat like me,Mostly like me,Very much like me,Very much like me,Mostly like me,Not like me at all,Somewhat like me,Not like me at all,always true,always true,always true,almost always true,frequently true,almost always true,sometimes true,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,4 = Very Often,3 = Fairly Often,2 = Sometimes,Male,26 or older,No,Asian or Pacific Islander,,China,,Graduate fourth year,,Prefer not to answer,,"$52,000-74,999",Chinese,,relations between money and stress,"no ",very realistic,no,398130187@qq.com,91,42,22,1,33,,,,
+2019-09-21 19:38:06,2019-09-21 19:55:03,IP Address,119.162.199.77,100,1017,True,2019-09-21 19:55:04,R_1LYUorTcR4t03HV,,,,,36.6620941162109375,117.010406494140625,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$50.00 now,$100.00 in 1 week,,,$37.50 now,,,,,$31.30 now,,,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 2 weeks,,,,,$100.00 in 2 weeks,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 1 month,,,,,$100.00 in 1 month,,,,,,,,,,$22.10 now,,,,,,,,,,,,,2,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 6 months,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$750.00 now,,,$625.00 now,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,$1000.00 in 1 week,,,,,,,$500.00 now,$250.00 now,,$1000.00 in 2 weeks,,,,,$1000.00 in 2 weeks,,,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,$500.00 now,$1000.00 in 1 month,,,$1000.00 in 1 month,,,,,,$438.00 now,,,,,,,,,,,$410.00 now,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,Not much like me,Not like me at all,Mostly like me,Somewhat like me,Not much like me,Very much like me,Somewhat like me,never true,seldom true,very seldom true,never true,sometimes true,never true,very seldom true,1 = Almost Never,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,1 = Almost Never,2 = Sometimes,1 = Almost Never,4 = Very Often,3 = Fairly Often,2 = Sometimes,Male,18-25 years old,No,Asian or Pacific Islander,,China,,Undergraduate senior year,,No,,"$26,000-$51,999","English,Chinese",,,,,,992197526@qq.com,74,14,19,0,45,,,,
+2019-09-21 20:17:19,2019-09-21 20:27:36,IP Address,162.229.193.249,100,616,True,2019-09-21 20:27:37,R_zZ6fi2InYlq0tLb,,,,,34.0915069580078125,-118.13069915771484375,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$75.00 now,,,$100.00 in 6 months,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Very much like me,Mostly like me,Very much like me,Mostly like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,Mostly like me,Not like me at all,Mostly like me,Mostly like me,seldom true,seldom true,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,1 = Almost Never,1 = Almost Never,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,No,,"more than $75,000","English,Chinese",,How people value life,No,Very good,Sounds good!,zeyunlu@usc.edu,62,16,19,0,41,,,,
+2019-09-21 16:43:25,2019-09-22 00:46:53,IP Address,47.156.240.144,100,29007,True,2019-09-22 00:46:54,R_1OpncC4oSSpKWf7,,,,,33.76300048828125,-118.177398681640625,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$97.70 now,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$100.00 in 5 years,,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,Very much like me,Not much like me,Not much like me,Not much like me,Not much like me,Very much like me,Not much like me,Not like me at all,Mostly like me,Very much like me,Very much like me,Not much like me,Mostly like me,frequently true,very seldom true,sometimes true,very seldom true,seldom true,sometimes true,sometimes true,3 = Fairly Often,3 = Fairly Often,4 = Very Often,2 = Sometimes,1 = Almost Never,2 = Sometimes,3 = Fairly Often,1 = Almost Never,4 = Very Often,3 = Fairly Often,2 = Sometimes,Female,26 or older,Yes,Other,"Arab ",Prefer not to answer,,Graduate third year,,Yes,40,"$52,000-74,999",Other,"Arabic ","Dealing with stress and delayed reinforcement ",No,"The $$$ ones wasn’t too realistic ",Good luck!,wajohani@gmail.com,101,24,24,0,45,,,,
+2019-09-22 09:53:59,2019-09-22 12:24:31,IP Address,216.165.95.155,100,9032,True,2019-09-22 12:24:33,R_1IFuS9Fyd8JgUdk,,,,,40.73590087890625,-73.9904022216796875,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$100.00 in 6 months,,$75.00 now,,,$62.50 now,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$100.00 in 6 months,,,,,,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$500.00 now,$1000.00 in 5 years,,,$375.00 now,,,,,$313.00 now,,,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Mostly like me,Somewhat like me,Somewhat like me,Somewhat like me,Somewhat like me,Somewhat like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Not much like me,Somewhat like me,frequently true,frequently true,frequently true,sometimes true,almost always true,sometimes true,seldom true,3 = Fairly Often,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,1 = Almost Never,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate second year,,No,,"more than $75,000","English,Chinese",,"Delayed satisfaction ",no,,,szhang5@uci.edu,96,32,23,0,37,,,,
+2019-09-22 15:43:44,2019-09-22 15:53:42,IP Address,24.246.40.145,100,598,True,2019-09-22 15:53:43,R_27kQvFPF8azckxQ,,,,,43.558807373046875,-80.3003997802734375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$100.00 in 6 months,$100.00 in 5 years,,$75.00 now,,,$100.00 in 5 years,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,$100.00 in 5 years,,,,,$50.00 now,$100.00 in 25 years,,,$100.00 in 25 years,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,Mostly like me,Not like me at all,Not like me at all,Mostly like me,Not like me at all,Very much like me,Not like me at all,Not like me at all,Mostly like me,Very much like me,Very much like me,Not like me at all,Very much like me,never true,never true,never true,never true,never true,never true,never true,1 = Almost Never,0 = Never,1 = Almost Never,4 = Very Often,1 = Almost Never,0 = Never,4 = Very Often,4 = Very Often,4 = Very Often,1 = Almost Never,0 = Never,Female,18-25 years old,No,White/Caucasian,,Other,Canada,Undergraduate senior year,,No,,"$0-25,999",English,,,,,,chaneljoakes@gmail.com,71,7,16,0,50,,,,
+2019-09-22 16:13:50,2019-09-22 16:23:54,IP Address,73.106.75.91,100,604,True,2019-09-22 16:23:55,R_3NCVHvCQmsqOyup,,,,,33.7696990966796875,-84.375396728515625,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 1 month,,$100.00 in 1 month,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 1 month,,,,2,$100.00 in 6 months,,$75.00 now,,,$62.50 now,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$100.00 in 6 months,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$95.00 now,,,,,,,,,,,,,,,Mostly like me,Not like me at all,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Not much like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,Somewhat like me,Somewhat like me,never true,very seldom true,never true,never true,never true,very seldom true,very seldom true,1 = Almost Never,2 = Sometimes,2 = Sometimes,1 = Almost Never,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,2 = Sometimes,4 = Very Often,2 = Sometimes,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate sixth year,,Prefer not to answer,,"$26,000-$51,999","English,Chinese",,Stress level about income for now？,No,Not bad but with slightly overlap,"Good job, best of luck.",Caocong514@gmail.com,66,10,18,0,38,,,,
+2019-09-22 17:04:01,2019-09-22 17:20:51,IP Address,73.178.73.25,100,1008,True,2019-09-22 17:20:52,R_0dP2CD9ZE7PNPCp,,,,,40.485595703125,-74.62650299072265625,anonymous,EN,I understand,I understand,$50.00 now,$100.00 now,,,$37.50 now,,,,,$100.00 now,,,,,,,,,,,$100.00 now,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$50.00 now,$25.00 now,,$100.00 in 2 weeks,,,,,$18.80 now,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,$100.00 in 1 month,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,$53.60 now,,,,,,,,2,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 week,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 month,,$1000.00 in 6 months,,$750.00 now,,,$1000.00 in 6 months,,,,,,,$688.00 now,,,,,,,,,,,,,$1000.00 in 6 months,,,,,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Somewhat like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Somewhat like me,Not much like me,Not much like me,Somewhat like me,sometimes true,seldom true,almost always true,sometimes true,seldom true,very seldom true,frequently true,2 = Sometimes,1 = Almost Never,1 = Almost Never,3 = Fairly Often,2 = Sometimes,1 = Almost Never,3 = Fairly Often,1 = Almost Never,4 = Very Often,1 = Almost Never,1 = Almost Never,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,Yes,20,"$26,000-$51,999","English,Chinese",,feelings and mood,no,very realistic,"don't know what am I doing at the beginning ",eileenhao51@gmail.com,74,27,16,0,33,,,,
+2019-09-22 17:06:59,2019-09-22 17:37:31,IP Address,172.58.19.212,100,1831,True,2019-09-22 17:37:31,R_23dGpxpwjt354t9,,,,,33.783203125,-117.977294921875,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$50.00 now,$25.00 now,,$100.00 in 1 week,,,,,$100.00 in 1 week,,,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 2 weeks,,,,,$100.00 in 2 weeks,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 1 month,,,,,$100.00 in 1 month,,,,,,,,,,$22.10 now,,,,,,,,,,,,,2,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 6 months,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,$500.00 now,$250.00 now,,$1000.00 in 6 months,,,,,$1000.00 in 6 months,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 5 years,,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,sometimes true,seldom true,seldom true,sometimes true,seldom true,seldom true,sometimes true,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,1 = Almost Never,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,No,,"more than $75,000",Chinese,,emotion,no,pretty realistic,no,l772992382@gmail.com,81,24,20,1,37,,,,
+2019-09-22 17:31:53,2019-09-22 17:40:19,IP Address,23.241.110.35,100,505,True,2019-09-22 17:40:19,R_baqlGQDAousykcV,,,,,34.1060028076171875,-118.3607025146484375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 month,,2,$100.00 in 6 months,,$75.00 now,,,$100.00 in 6 months,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,$100.00 in 6 months,,,,,$100.00 in 5 years,,$75.00 now,,,$62.50 now,,,,,,$100.00 in 5 years,,,,,,,,,,,,,$100.00 in 5 years,,,,,,,$50.00 now,$100.00 in 25 years,,,$100.00 in 25 years,,,,,,$100.00 in 25 years,,,,,,,,,,,,$47.30 now,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$1000.00 in 25 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,Mostly like me,Somewhat like me,Not much like me,Very much like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Somewhat like me,Not like me at all,Somewhat like me,Somewhat like me,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,seldom true,frequently true,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,1 = Almost Never,2 = Sometimes,,2 = Sometimes,2 = Sometimes,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate second year,,No,,"more than $75,000","English,Chinese",,,,,,2248829000@qq.com,84,28,20,0,40,,,,
+2019-09-22 21:43:51,2019-09-22 22:01:54,IP Address,107.77.165.7,100,1083,True,2019-09-22 22:01:56,R_2riJWZiA1nu94AZ,,,,,34.0543975830078125,-118.2440032958984375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 6 months,,,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Not much like me,Not much like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,Mostly like me,Mostly like me,Not much like me,Somewhat like me,Not much like me,Somewhat like me,very seldom true,very seldom true,very seldom true,very seldom true,sometimes true,seldom true,sometimes true,1 = Almost Never,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,0 = Never,1 = Almost Never,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate second year,,No,,"more than $75,000","English,Chinese",,Mental health,"No ","Very realistic ",,xiongyi@usc.edu,69,19,17,0,33,,,,
+2019-09-22 21:57:10,2019-09-22 22:16:29,IP Address,172.112.82.12,100,1159,True,2019-09-22 22:16:31,R_YakXIiYvV3xOpS9,,,,,34.0337066650390625,-118.35089874267578125,anonymous,EN,I understand,I understand,$50.00 now,$100.00 now,,,$100.00 now,,,,,,$100.00 now,,,,,,,,,,,,$100.00 now,,,,,,,,,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$87.50 now,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,$85.10 now,,,$100.00 in 1 month,,$100.00 in 1 month,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 1 month,,,,2,$100.00 in 6 months,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,$100.00 in 6 months,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$22.10 now,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$750.00 now,,,$1000.00 now,,,,,,,$1000.00 now,,,,,,,,,,,,,,$725.00 now,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 month,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$875.00 now,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,$851.00 now,,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$788.00 now,,,,$1000.00 in 25 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,Mostly like me,Mostly like me,Somewhat like me,Very much like me,Mostly like me,Somewhat like me,Not much like me,Not much like me,Mostly like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,very seldom true,frequently true,never true,very seldom true,never true,sometimes true,very seldom true,1 = Almost Never,1 = Almost Never,1 = Almost Never,3 = Fairly Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,1 = Almost Never,0 = Never,Male,26 or older,Yes,Asian or Pacific Islander,,China,,Graduate second year,,No,,Prefer not to answer,"English,Chinese",,,,,,xmgbg17@gmail.com,70,17,15,0,42,,,,
+2019-09-22 22:08:52,2019-09-22 22:22:47,IP Address,70.114.200.164,100,835,True,2019-09-22 22:22:48,R_3EakrL2Km2IvjyX,,,,,30.322296142578125,-97.7389984130859375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$75.00 now,,,$100.00 in 1 week,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$100.00 in 2 weeks,,,$100.00 in 2 weeks,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,$47.30 now,,,,,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$100.00 in 6 months,,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$500.00 now,$1000.00 in 5 years,,,$1000.00 in 5 years,,,,,,$438.00 now,,,,,,,,,,,$410.00 now,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Mostly like me,Somewhat like me,Somewhat like me,Not much like me,Very much like me,Not much like me,Not like me at all,Mostly like me,Not much like me,Very much like me,Somewhat like me,Very much like me,sometimes true,frequently true,frequently true,sometimes true,frequently true,almost always true,sometimes true,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,1 = Almost Never,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate first year,,Yes,30,"$26,000-$51,999","English,Chinese",,"Biochemistry ",No,"Fairly realistic ",I realize I may be stressed too much,Shugesun@utexas.edu,101,33,21,0,41,,,,
+2019-09-22 22:31:01,2019-09-22 22:58:38,IP Address,73.70.162.242,100,1656,True,2019-09-22 22:58:39,R_1JEnDxqqe3yg8t6,,,,,37.7505950927734375,-122.41210174560546875,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$78.80 now,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$500.00 now,$250.00 now,,$1000.00 in 25 years,,,,,$1000.00 in 25 years,,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,Somewhat like me,Somewhat like me,Somewhat like me,Somewhat like me,Mostly like me,Somewhat like me,Not much like me,Somewhat like me,Mostly like me,Mostly like me,Not much like me,Mostly like me,Somewhat like me,very seldom true,very seldom true,sometimes true,never true,very seldom true,seldom true,sometimes true,1 = Almost Never,1 = Almost Never,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,26 or older,No,Hispanic/Latino,,Prefer not to answer,,Prefer not to answer,,Prefer not to answer,,Prefer not to answer,English,,Short term reward and long term,"no ","They were ok ","No comments ",luzpperez24@gmail.com,70,18,19,0,39,,,,
+2019-09-23 00:16:11,2019-09-23 00:28:05,IP Address,24.205.107.166,100,713,True,2019-09-23 00:28:06,R_3LiMeP8tF4J8jGF,,,,,39.5272064208984375,-119.91290283203125,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$50.00 now,$100.00 in 2 weeks,,,$100.00 in 2 weeks,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 1 month,,,,,$100.00 in 1 month,,,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$500.00 now,$250.00 now,,$1000.00 in 6 months,,,,,$1000.00 in 6 months,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Somewhat like me,Mostly like me,Somewhat like me,Very much like me,Mostly like me,Somewhat like me,Very much like me,Very much like me,Very much like me,Somewhat like me,Mostly like me,sometimes true,sometimes true,almost always true,almost always true,frequently true,sometimes true,frequently true,2 = Sometimes,3 = Fairly Often,4 = Very Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,2 = Sometimes,2 = Sometimes,Female,26 or older,Yes,White/Caucasian,,Other,,Graduate sixth year,,Yes,20,"$52,000-74,999","English,Other",,"Immediate vs delayed reinforcement ","I did it on my phone so the questions last part was hard to keep track of choices ","To some level realistic ! ","Interested to see what will be outcome and results ","No thank you good luck to you ",102,34,23,1,41,,,,
+2019-09-23 00:46:28,2019-09-23 00:55:44,IP Address,78.104.185.54,100,555,True,2019-09-23 00:55:45,R_UoNHw1ZCx7yLeFP,,,,,48.2169036865234375,16.49969482421875,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$85.10 now,,,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$100.00 in 5 years,,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,$50.00 now,$100.00 in 25 years,,,$100.00 in 25 years,,,,,,$100.00 in 25 years,,,,,,,,,,,,$100.00 in 25 years,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$1000.00 in 25 years,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,$977.00 now,Mostly like me,Not much like me,Not much like me,Very much like me,Not much like me,Very much like me,Not like me at all,Not like me at all,Mostly like me,Very much like me,Very much like me,Mostly like me,Very much like me,never true,never true,never true,never true,never true,never true,never true,1 = Almost Never,0 = Never,2 = Sometimes,4 = Very Often,2 = Sometimes,0 = Never,3 = Fairly Often,4 = Very Often,4 = Very Often,0 = Never,0 = Never,Female,18-25 years old,No,White/Caucasian,,United States,,Undergraduate senior year,,Yes,20,Prefer not to answer,English,,,,,,,66,7,16,0,51,,,,
+2019-09-23 02:40:09,2019-09-23 02:48:44,IP Address,82.132.228.85,100,514,True,2019-09-23 02:48:45,R_1DMR3lJHRwLDPxL,,,,,51.49639892578125,-0.122406005859375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 25 years,,,,,$100.00 in 25 years,,,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$1000.00 in 5 years,$1000.00 in 25 years,,$1000.00 in 25 years,,,,$1000.00 in 25 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,,,Not much like me,Mostly like me,Somewhat like me,Not like me at all,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Somewhat like me,Not much like me,sometimes true,frequently true,sometimes true,frequently true,sometimes true,very seldom true,very seldom true,2 = Sometimes,1 = Almost Never,3 = Fairly Often,2 = Sometimes,1 = Almost Never,1 = Almost Never,4 = Very Often,4 = Very Often,3 = Fairly Often,2 = Sometimes,2 = Sometimes,Female,18-25 years old,No,Hispanic/Latino,,Other,,Graduate third year,,No,,"$0-25,999",English,,money perceptions,,very,,emma_fontes@outlook.com,74,26,22,1,32,,,,
+2019-09-23 10:34:15,2019-09-23 11:14:45,IP Address,107.77.194.210,100,2430,True,2019-09-23 11:14:46,R_3EQlSCv23iPfedc,,,,,37.751007080078125,-97.82199859619140625,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$75.00 now,,,$100.00 in 1 week,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,$100.00 in 1 week,,,,,$50.00 now,$100.00 in 2 weeks,,,$100.00 in 2 weeks,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$750.00 now,,,$1000.00 in 1 week,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,$1000.00 in 1 week,,,,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 1 month,,$750.00 now,,,$1000.00 in 1 month,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,$1000.00 in 1 month,,,,,$1000.00 in 6 months,,$750.00 now,,,$1000.00 in 6 months,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,$1000.00 in 6 months,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Mostly like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Very much like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,seldom true,sometimes true,sometimes true,seldom true,seldom true,seldom true,sometimes true,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,1 = Almost Never,1 = Almost Never,3 = Fairly Often,4 = Very Often,2 = Sometimes,1 = Almost Never,Female,26 or older,No,Asian or Pacific Islander,,United States,,Graduate fifth year,,Yes,30,"$0-25,999","English,Chinese",,,,,,Anitli@gmail.com,78,24,19,0,39,,,,
+2019-09-23 11:40:09,2019-09-23 11:56:12,IP Address,213.7.32.206,100,962,True,2019-09-23 11:56:14,R_2zp80cc8fY8aULW,,,,,35.1638031005859375,33.3639068603515625,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$85.10 now,,,$50.00 now,$100.00 in 5 years,,,$37.50 now,,,,,$100.00 in 5 years,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,$599.00 now,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Mostly like me,Very much like me,sometimes true,frequently true,frequently true,sometimes true,sometimes true,very seldom true,frequently true,2 = Sometimes,1 = Almost Never,4 = Very Often,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,2 = Sometimes,4 = Very Often,3 = Fairly Often,2 = Sometimes,Male,26 or older,No,White/Caucasian,,Other,Romania,Other,Phd,Yes,40,"$26,000-$51,999","English,Other",Romanian,,,very,,alin_sem@yahoo.com,92,29,24,0,43,,,,
+2019-09-23 13:31:28,2019-09-23 13:39:27,IP Address,208.66.176.12,100,479,True,2019-09-23 13:39:28,R_VU7Tw2DVWjk3plv,,,,,30.2422943115234375,-97.7671966552734375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$75.00 now,,,$100.00 in 1 week,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,$100.00 in 1 week,,,,,$50.00 now,$100.00 in 2 weeks,,,$100.00 in 2 weeks,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,$100.00 in 2 weeks,,,,,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$875.00 now,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,$1000.00 in 2 weeks,,,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$875.00 now,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,$851.00 now,,,$500.00 now,$1000.00 in 6 months,,,$1000.00 in 6 months,,,,,,$1000.00 in 6 months,,,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,2345,$1000.00 in 5 years,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Somewhat like me,Somewhat like me,Not much like me,Mostly like me,Not much like me,Not much like me,Mostly like me,Mostly like me,Mostly like me,Not much like me,Mostly like me,very seldom true,never true,very seldom true,very seldom true,seldom true,sometimes true,sometimes true,1 = Almost Never,1 = Almost Never,3 = Fairly Often,2 = Sometimes,4 = Very Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Female,18-25 years old,No,Hispanic/Latino,,United States,,Undergraduate junior year,,Yes,15,"$26,000-$51,999",English,,"How money plays into people’s anxiety about the future ",N/a,"Fairly realistic ",,"Rsanche9@stedwards.edu ",77,18,21,0,42,,,,
+2019-09-23 15:44:46,2019-09-23 15:51:07,IP Address,128.84.95.74,100,381,True,2019-09-23 15:51:08,R_1IgeI03MTzWfprQ,,,,,40.7617950439453125,-73.95050048828125,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$87.50 now,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,$100.00 in 1 week,,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,,$100.00 in 6 months,$100.00 in 5 years,,$100.00 in 5 years,,,,$100.00 in 5 years,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$100.00 in 5 years,$100.00 in 25 years,,$100.00 in 25 years,,,,$100.00 in 25 years,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,$100.00 in 25 years,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Somewhat like me,Very much like me,Mostly like me,Mostly like me,Somewhat like me,Not much like me,Not much like me,Very much like me,Somewhat like me,Somewhat like me,Mostly like me,Not much like me,very seldom true,very seldom true,seldom true,very seldom true,never true,almost always true,almost always true,1 = Almost Never,4 = Very Often,1 = Almost Never,2 = Sometimes,2 = Sometimes,1 = Almost Never,2 = Sometimes,3 = Fairly Often,4 = Very Often,3 = Fairly Often,2 = Sometimes,Male,26 or older,Yes,Asian or Pacific Islander,,China,,Graduate first year,,No,,Prefer not to answer,Chinese,,Psychology,,Very,Too long,fgao22@live.com,76,22,21,1,37,,,,
+2019-09-23 16:12:46,2019-09-23 16:24:49,IP Address,168.122.2.54,100,723,True,2019-09-23 16:24:50,R_2E67ldsZ1bEHUeN,,,,,42.346405029296875,-71.097503662109375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 1 month,,$75.00 now,,,$100.00 in 1 month,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,$100.00 in 1 month,,,,,2,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$100.00 in 6 months,,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,$50.00 now,$100.00 in 25 years,,,$100.00 in 25 years,,,,,,$43.80 now,,,,,,,,,,,$41.00 now,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 month,,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$750.00 now,,,$1000.00 in 5 years,,,,,,,$688.00 now,,,,,,,,,,,,,$1000.00 in 5 years,,,,,,$500.00 now,$1000.00 in 25 years,,,$375.00 now,,,,,$313.00 now,,,,,,,,,,$284.00 now,,,,,,,,,,,,Mostly like me,Somewhat like me,Not much like me,Mostly like me,Not much like me,Mostly like me,Not much like me,Somewhat like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,frequently true,seldom true,seldom true,very seldom true,very seldom true,very seldom true,very seldom true,2 = Sometimes,1 = Almost Never,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate second year,,Yes,24,Prefer not to answer,Chinese,,,,,,mia1036612997@gmail.com,73,19,20,0,44,,,,
+2019-09-23 10:49:46,2019-09-23 19:19:32,IP Address,173.28.146.136,100,30586,True,2019-09-23 19:19:35,R_2AMw1WyBHEWtK7M,,,,,37.7201995849609375,-89.2156982421875,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$50.00 now,$100.00 in 6 months,,,$100.00 in 6 months,,,,,,$100.00 in 6 months,,,,,,,,,,,,$100.00 in 6 months,,,,,,,,,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$100.00 in 5 years,,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,$50.00 now,$25.00 now,,$100.00 in 25 years,,,,,$100.00 in 25 years,,,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$500.00 now,$1000.00 in 6 months,,,$1000.00 in 6 months,,,,,,$1000.00 in 6 months,,,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$500.00 now,$250.00 now,,$1000.00 in 25 years,,,,,$1000.00 in 25 years,,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,Not like me at all,Very much like me,Somewhat like me,Not like me at all,Mostly like me,Mostly like me,Very much like me,Somewhat like me,Very much like me,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,2 = Sometimes,0 = Never,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,3 = Fairly Often,2 = Sometimes,4 = Very Often,0 = Never,2 = Sometimes,Female,26 or older,No,Hispanic/Latino,,United States,,Graduate fifth year,,Yes,20,"$0-25,999","English,Other",Spanish,"Differences between students (undergrad vs. grad, and international vs. non-international) as it relates to discounting, psychological flexibility, and grit. Possibly even looking at whether students of specifics genders, races/ethnicities respond differently.",No,Realistic.,N/A,bairesnatalia@gmail.com,74,14,20,0,44,,,,
+2019-09-24 11:57:09,2019-09-24 12:15:46,IP Address,75.132.243.227,100,1116,True,2019-09-24 12:15:47,R_2Y4wmfuofSFt4T3,,,,,38.5753021240234375,-90.26509857177734375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,,$977.00 now,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,Mostly like me,Very much like me,Not much like me,Not much like me,Very much like me,Mostly like me,Mostly like me,Very much like me,Mostly like me,Not much like me,Very much like me,Mostly like me,Mostly like me,very seldom true,never true,very seldom true,never true,sometimes true,very seldom true,very seldom true,2 = Sometimes,2 = Sometimes,3 = Fairly Often,2 = Sometimes,1 = Almost Never,2 = Sometimes,3 = Fairly Often,0 = Never,4 = Very Often,3 = Fairly Often,2 = Sometimes,Female,18-25 years old,No,White/Caucasian,,United States,,Graduate fourth year,,Yes,20,"$0-25,999",English,,Examining differences in self-control (through discounting) and psychological flexibility between domestic and international students,No,Good,None,victoria.hutchinson@slu.edu,70,14,20,0,30,,,,
+2019-09-24 22:18:50,2019-09-24 22:27:42,IP Address,76.169.184.43,100,531,True,2019-09-24 22:27:43,R_u3AT4AoKwn81baN,,,,,34.0290069580078125,-118.4004974365234375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 6 months,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$500.00 now,$250.00 now,,$125.00 now,,,,,,,,,,,,,,,,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Mostly like me,Somewhat like me,Not much like me,Mostly like me,Somewhat like me,Very much like me,Somewhat like me,Somewhat like me,Very much like me,Mostly like me,Very much like me,Somewhat like me,Very much like me,seldom true,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,very seldom true,1 = Almost Never,1 = Almost Never,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,4 = Very Often,2 = Sometimes,1 = Almost Never,Prefer not to answer,Prefer not to anwer,No,Asian or Pacific Islander,,United States,,Other,grad,Yes,0,"$26,000-$51,999",English,,"making choices now vs. later ",no,"realistic ","n/a ","jasmine.c.lau@usc.edu ",72,15,19,1,42,,,,
+2019-09-25 09:25:36,2019-09-25 09:38:18,IP Address,108.185.109.205,100,762,True,2019-09-25 09:38:19,R_1flyjPsAswreFHH,,,,,34.1448974609375,-118.388702392578125,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$75.00 now,,,$100.00 in 1 week,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,$100.00 in 1 week,,,,,$100.00 in 2 weeks,,$75.00 now,,,$100.00 in 2 weeks,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,$72.50 now,,,,,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$18.80 now,,,,,,,,,$15.80 now,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,,$50.00 now,$100.00 in 25 years,,,$37.50 now,,,,,$31.30 now,,,,,,,,,,$28.40 now,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$1000.00 in 1 week,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 1 month,,$750.00 now,,,$625.00 now,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,$1000.00 in 1 month,,,,,,,$500.00 now,$1000.00 in 6 months,,,$1000.00 in 6 months,,,,,,$438.00 now,,,,,,,,,,,$410.00 now,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Somewhat like me,Not like me at all,Not much like me,Not much like me,Somewhat like me,Not like me at all,Mostly like me,Mostly like me,Very much like me,Very much like me,Not much like me,Somewhat like me,very seldom true,very seldom true,almost always true,never true,very seldom true,always true,sometimes true,2 = Sometimes,2 = Sometimes,4 = Very Often,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,2 = Sometimes,4 = Very Often,4 = Very Often,3 = Fairly Often,Female,18-25 years old,No,White/Caucasian,,United States,,Graduate second year,,Yes,18,"$0-25,999",English,,Seeing whether your stress level effected the amount of money you were willing to take 'now' VS in a month etc,no,realistic enough,none,acoppola@usc.edu,94,24,28,0,38,,,,
+2019-09-25 09:27:26,2019-09-25 09:42:28,IP Address,64.183.127.106,100,901,True,2019-09-25 09:42:29,R_AomMiuKFd3BsxNL,,,,,33.761505126953125,-118.07630157470703125,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 2 weeks,,,,$100.00 in 1 month,,$100.00 in 1 month,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 1 month,,,,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 5 years,,,,$500.00 now,$1000.00 in 25 years,,,$1000.00 in 25 years,,,,,,$1000.00 in 25 years,,,,,,,,,,,,$1000.00 in 25 years,,,,,,,,,Somewhat like me,Very much like me,Mostly like me,Mostly like me,Very much like me,Very much like me,Mostly like me,Somewhat like me,Mostly like me,Somewhat like me,Very much like me,Mostly like me,Mostly like me,very seldom true,sometimes true,sometimes true,never true,seldom true,sometimes true,seldom true,1 = Almost Never,2 = Sometimes,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,1 = Almost Never,2 = Sometimes,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Female,18-25 years old,No,White/Caucasian,,United States,,Prefer not to answer,,Yes,40,"more than $75,000",English,,Delay reinforcement,I couldn't complete it on my phone,Realistic,,maddimajeski@icloud.com,71,21,19,0,33,,,,
+2019-09-25 13:08:00,2019-09-25 13:26:04,IP Address,128.125.148.21,100,1083,True,2019-09-25 13:26:04,R_1jOEYFz4Sl2LzZa,,,,,34.032196044921875,-118.283599853515625,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 2 weeks,,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 6 months,,,,$100.00 in 5 years,,$100.00 in 5 years,,,,$87.50 now,,,,,,,$100.00 in 5 years,,,,,,,,,,,,,,,$100.00 in 5 years,,,$100.00 in 25 years,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,$53.60 now,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$1000.00 in 5 years,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,$1000.00 in 25 years,,$750.00 now,,,$625.00 now,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,$599.00 now,,,,,,,Somewhat like me,Very much like me,Very much like me,Not like me at all,Very much like me,Somewhat like me,Mostly like me,Very much like me,Mostly like me,Not like me at all,Mostly like me,Very much like me,Not like me at all,never true,frequently true,almost always true,never true,frequently true,always true,always true,4 = Very Often,4 = Very Often,4 = Very Often,1 = Almost Never,1 = Almost Never,4 = Very Often,2 = Sometimes,0 = Never,4 = Very Often,4 = Very Often,4 = Very Often,Female,18-25 years old,No,White/Caucasian,,United States,,Graduate second year,,Yes,17,"$26,000-$51,999",English,,Resilience and delayed discounting,No,Very realistic except for the money,None,Zulrey@usc.edu,88,32,28,0,22,,,,
+2019-09-25 23:46:59,2019-09-26 00:00:07,IP Address,70.93.255.224,100,787,True,2019-09-26 00:00:08,R_2QlVOCCjxNaqxOD,,,,,33.8159942626953125,-117.96920013427734375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$1000.00 in 6 months,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Very much like me,Mostly like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Mostly like me,Mostly like me,Not much like me,Mostly like me,never true,never true,never true,never true,very seldom true,very seldom true,very seldom true,1 = Almost Never,2 = Sometimes,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,4 = Very Often,1 = Almost Never,1 = Almost Never,Male,26 or older,No,Asian or Pacific Islander,,United States,,Graduate first year,,Yes,40,Prefer not to answer,"English,Other",Arabic; Urdu,"I'm not exactly sure but perhaps looking at some relationship between delayed gratification and ability to cope with stress. ",No,"Pretty realistic, especially the ones relating to ""stress""",,asimjaved90@gmail.com,64,10,20,0,38,,,,
+2019-09-26 10:30:44,2019-09-26 10:43:17,IP Address,207.151.52.96,100,752,True,2019-09-26 10:43:17,R_3pm1oc6z4FwCEp6,,,,,34.032196044921875,-118.283599853515625,anonymous,EN,I understand,I understand,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,2,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$320.00 now,,,,,,,,,,,,,,,,1001,$500.00 now,$250.00 now,,$125.00 now,,,,$630.00 now,,,,,,,,$320.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Mostly like me,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,Somewhat like me,Somewhat like me,Mostly like me,Somewhat like me,Somewhat like me,Mostly like me,Somewhat like me,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,sometimes true,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,2 = Sometimes,4 = Very Often,2 = Sometimes,2 = Sometimes,Male,26 or older,Yes,Asian or Pacific Islander,,China,,Graduate second year,,Yes,16,Prefer not to answer,"English,Chinese",,Self control,No,Realistic,"No comments ",hongenma@usc.edu,83,28,20,0,37,,,,
+2019-09-26 14:08:42,2019-09-26 14:28:25,IP Address,96.247.27.148,100,1182,True,2019-09-26 14:28:26,R_sih5OVqWArbDFQd,,,,,34.236297607421875,-118.47979736328125,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$97.70 now,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 6 months,,,,$50.00 now,$100.00 in 5 years,,,$37.50 now,,,,,$100.00 in 5 years,,,,,,,,,,,$34.70 now,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 25 years,,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,I understand,$500.00 now,$1000.00 now,,,$1000.00 now,,,,,,$1000.00 now,,,,,,,,,,,,$1000.00 now,,,,,,,,,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$97.70 now,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$938.00 now,,,,,,,,,,,,,,,$914.00 now,,2345,$1000.00 in 5 years,,$1000.00 in 5 years,,,,$875.00 now,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,$1000.00 in 5 years,,,$500.00 now,$250.00 now,,$1000.00 in 25 years,,,,,$1000.00 in 25 years,,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,Very much like me,Not much like me,Not much like me,Mostly like me,Not much like me,Very much like me,Not like me at all,Not like me at all,Mostly like me,Mostly like me,Very much like me,Mostly like me,Very much like me,never true,seldom true,very seldom true,never true,seldom true,very seldom true,frequently true,2 = Sometimes,1 = Almost Never,4 = Very Often,3 = Fairly Often,2 = Sometimes,2 = Sometimes,3 = Fairly Often,1 = Almost Never,4 = Very Often,3 = Fairly Often,3 = Fairly Often,Female,18-25 years old,No,Hispanic/Latino,,United States,,Graduate second year,,Yes,20,"$26,000-$51,999","English,Other",Spanish,Grit and delay of gratification,None,Very realistic,"good variety of measures ",,91,17,24,0,50,,,,
+2019-09-27 19:26:43,2019-09-27 19:42:23,IP Address,172.56.44.36,100,939,True,2019-09-27 19:42:24,R_sO8llJ4pWIFUD1T,,,,,21.3513031005859375,-157.87249755859375,anonymous,EN,I understand,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$97.70 now,2,$50.00 now,$25.00 now,,$100.00 in 6 months,,,,,$100.00 in 6 months,,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$977.00 now,$500.00 now,$1000.00 in 6 months,,,$1000.00 in 6 months,,,,,,$1000.00 in 6 months,,,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 5 years,,,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Very much like me,Not much like me,Not much like me,Very much like me,Somewhat like me,Very much like me,Not like me at all,Not like me at all,Mostly like me,Very much like me,Very much like me,Not like me at all,Very much like me,very seldom true,very seldom true,very seldom true,never true,never true,seldom true,never true,0 = Never,0 = Never,1 = Almost Never,0 = Never,0 = Never,0 = Never,4 = Very Often,4 = Very Often,4 = Very Often,0 = Never,2 = Sometimes,Female,26 or older,No,White/Caucasian,,Other,,Graduate first year,,Yes,32,"more than $75,000","English,Other,Prefer not to answer","Romanian, Hungarian ","Delayed gratification ",No,"Somewhat ","None ",,79,12,11,0,48,,,,
+2019-09-21 14:21:51,2019-09-21 14:33:58,IP Address,18.20.169.49,100,727,False,2019-09-28 14:34:12,R_3R8dj7cJD2GLaNO,,,,,,,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$100.00 in 1 month,,,,,,,,,,,,,,,,$100.00 in 1 month,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$100.00 in 6 months,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$50.00 now,$25.00 now,,$100.00 in 5 years,,,,,$100.00 in 5 years,,,,,,,,,,$22.10 now,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$100.00 in 25 years,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$1000.00 in 6 months,,,,$1000.00 in 6 months,,,,,,,,$1000.00 in 6 months,,,,,,,,,,,,,,,,$977.00 now,2345,$1000.00 in 5 years,,$750.00 now,,,$1000.00 in 5 years,,,,,,,$1000.00 in 5 years,,,,,,,,,,,,,,$725.00 now,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,,Very much like me,Somewhat like me,Somewhat like me,Mostly like me,Somewhat like me,Mostly like me,Somewhat like me,Not much like me,Mostly like me,Somewhat like me,Mostly like me,Not much like me,Mostly like me,seldom true,sometimes true,sometimes true,very seldom true,sometimes true,very seldom true,sometimes true,2 = Sometimes,2 = Sometimes,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,4 = Very Often,2 = Sometimes,2 = Sometimes,Male,18-25 years old,Yes,Asian or Pacific Islander,,China,,Graduate third year,,No,,"$26,000-$51,999","English,Chinese",,Correlations between personality and future expectation,No,Fair,First a few questions can be designed more efficiently,jzhzhang@mit.edu,83,23,24,0,40,,,,
+2019-09-21 15:59:24,2019-09-21 16:09:55,IP Address,168.122.206.22,100,630,False,2019-09-28 16:10:12,R_3Grzy6JDPHb7Psx,,,,,,,anonymous,EN,,I understand,$100.00 now,,$100.00 now,,,,$100.00 now,,,,,,,,$100.00 now,,,,,,,,,,,,,,,,$100.00 now,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$100.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$100.00 in 2 weeks,,,,,,,,,,,,,,,,$100.00 in 2 weeks,$50.00 now,$100.00 in 1 month,,,$100.00 in 1 month,,,,,,$100.00 in 1 month,,,,,,,,,,,,$100.00 in 1 month,,,,,,,,,2,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 6 months,,,,,,,,,$100.00 in 6 months,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$100.00 in 5 years,,,,,,,,,$9.50 now,,,,,,,,,,,,,,,$50.00 now,$25.00 now,,$12.50 now,,,,$6.30 now,,,,,,,,$3.20 now,,,,,,,,,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$500.00 now,$1000.00 in 1 week,,,$1000.00 in 1 week,,,,,,$1000.00 in 1 week,,,,,,,,,,,,$1000.00 in 1 week,,,,,,,,,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$977.00 now,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$875.00 now,,,,,,,$813.00 now,,,,,,,,,,,,,,$1000.00 in 1 month,,,,$500.00 now,$1000.00 in 6 months,,,$1000.00 in 6 months,,,,,,$1000.00 in 6 months,,,,,,,,,,,,$1000.00 in 6 months,,,,,,,,,2345,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$63.00 now,,,,,,,,$32.00 now,,,,,,,,,,,,,,,,Somewhat like me,Mostly like me,Not much like me,Not much like me,Somewhat like me,Not much like me,Not much like me,Not much like me,Mostly like me,Somewhat like me,Somewhat like me,Not much like me,Somewhat like me,sometimes true,sometimes true,frequently true,very seldom true,sometimes true,almost always true,always true,3 = Fairly Often,1 = Almost Never,4 = Very Often,2 = Sometimes,2 = Sometimes,4 = Very Often,1 = Almost Never,3 = Fairly Often,4 = Very Often,3 = Fairly Often,3 = Fairly Often,Female,18-25 years old,Yes,Asian or Pacific Islander,,China,,Undergraduate senior year,,No,,Prefer not to answer,Chinese,,no idea,no,,too many questions,,95,32,26,0,35,,,,
+2019-09-30 00:34:33,2019-09-30 00:43:39,IP Address,84.224.210.245,100,545,True,2019-09-30 00:43:40,R_A1imdyFOTkIlYNX,,,,,46.899993896484375,19.783294677734375,anonymous,EN,I understand,I understand,$50.00 now,$100.00 now,,,$100.00 now,,,,,,$100.00 now,,,,,,,,,,,,$100.00 now,,,,,,,,,$100.00 in 1 week,,$100.00 in 1 week,,,,$100.00 in 1 week,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$100.00 in 1 week,,$100.00 in 2 weeks,,$100.00 in 2 weeks,,,,$100.00 in 2 weeks,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,$100.00 in 1 month,,$100.00 in 1 month,,,,$100.00 in 1 month,,,,,,,,$93.80 now,,,,,,,,,,,,,,,$91.40 now,,2,$100.00 in 6 months,,$100.00 in 6 months,,,,$87.50 now,,,,,,,$81.30 now,,,,,,,,,,,,,,$100.00 in 6 months,,,,$50.00 now,$100.00 in 5 years,,,$100.00 in 5 years,,,,,,$100.00 in 5 years,,,,,,,,,,,,$100.00 in 5 years,,,,,,,,,$100.00 in 25 years,,$75.00 now,,,$62.50 now,,,,,,$56.30 now,,,,,,,,,,,,$53.60 now,,,,,,,,I understand,$1000.00 now,,$1000.00 now,,,,$1000.00 now,,,,,,,,$1000.00 now,,,,,,,,,,,,,,,,$1000.00 now,1001,$1000.00 in 1 week,,$1000.00 in 1 week,,,,$1000.00 in 1 week,,,,,,,,$1000.00 in 1 week,,,,,,,,,,,,,,,,$100.00 in 1 week,$1000.00 in 2 weeks,,$1000.00 in 2 weeks,,,,$1000.00 in 2 weeks,,,,,,,,$1000.00 in 2 weeks,,,,,,,,,,,,,,,,$1000.00 in 2 weeks,$1000.00 in 1 month,,$1000.00 in 1 month,,,,$1000.00 in 1 month,,,,,,,,$1000.00 in 1 month,,,,,,,,,,,,,,,,$1000.00 in 1 month,$1000.00 in 6 months,,$750.00 now,,,$625.00 now,,,,,,$563.00 now,,,,,,,,,,,,$536.00 now,,,,,,,,2345,$500.00 now,$1000.00 in 5 years,,,$1000.00 in 5 years,,,,,,$1000.00 in 5 years,,,,,,,,,,,,$1000.00 in 5 years,,,,,,,,,$500.00 now,$250.00 now,,$125.00 now,,,,$1000.00 in 25 years,,,,,,,,,$1000.00 in 25 years,,,,,,,,,,,,,,,Somewhat like me,Not much like me,Not much like me,Somewhat like me,Not like me at all,Very much like me,Mostly like me,Not like me at all,Mostly like me,Mostly like me,Very much like me,Mostly like me,Somewhat like me,seldom true,never true,almost always true,sometimes true,very seldom true,never true,frequently true,1 = Almost Never,3 = Fairly Often,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,3 = Fairly Often,3 = Fairly Often,2 = Sometimes,4 = Very Often,1 = Almost Never,0 = Never,Female,18-25 years old,Yes,White/Caucasian,,Prefer not to answer,,Undergraduate senior year,,Prefer not to answer,,Prefer not to answer,English,,"emotions, success",tiny places to click,absolutely,GOOD LUCK! It was a great survey :) Hope you will succeed,vane0700@easv365.dk,84,22,21,0,43,,,,
